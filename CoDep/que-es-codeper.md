@@ -15,15 +15,16 @@ En el *Codep* se discuten temas que conciernen al departamento y su administraci
 
 ### Formalmente:
 
-    * Ir a las reuniones de *Codep*. Usualmente cada dos semanas, los Miércoles a las 15hs.
+    * Ir a las reuniones de Codep. Usualmente cada dos semanas, los Miércoles a las 15hs.
     * Representar a les estudiantes frente al departamento.
 
 ### Informalmente:
 
     * Convocar a las reuniones de la ComCom
+    * Administrar el grupo de Facebook
     * Representar a les estudiantes en otros ámbitos
 
-Les codepers suelen trabajar en equipo para resolver los problemas y presentar propuestas ante el departamento. Las cuestiones que se tratan *generalmente* son cotidianas, más vinculadas al funcionamiento doméstico del departamento que a la política en ámbitos más amplios (agrupaciones nacionales, etc).
+Les codepers suelen trabajar en equipo para resolver los problemas y presentar propuestas ante el departamento. Las cuestiones que se tratan **generalmente** son cotidianas, más vinculadas al funcionamiento doméstico del departamento que a la política en ámbitos más amplios (agrupaciones nacionales, etc).
 
 Votar y participar en *Codep* no requiere ninguna experiencia previa aunque es sugerible estar un poco familiarizado con lo que pasa en el departamento día a día.
 
