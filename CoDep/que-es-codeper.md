@@ -46,4 +46,4 @@ Todxs lxs alumnxs de Computación
 
 ### ¿A quién voto?
 
-¡A quién te parezca! Al que te parece que mejor te va a representar, y más va a hacer por el departamento. Suelen ser los miembros más activos en el departamento en otras actividades, como la ComCom y otras comisiones.
+¡A quien te parezca! A le que te parezca que mejor te va a representar, y más va a hacer por el departamento. Suelen ser les miembres más activos en el departamento en otras actividades, como la ComCom y otras comisiones.
