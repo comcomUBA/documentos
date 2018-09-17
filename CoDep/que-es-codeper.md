@@ -1,9 +1,9 @@
 # ¿Qué es un Codeper?
 
 Este documento trata de responder algunas preguntas frecuentes entre lxs alumnxs. Estas preguntas surgen principalmente alrededor
-de las elecciones de representantxs para CoDep.
+de las elecciones de representantxs para *CoDep*.
 
-## ¿Qué es CoDep?
+## ¿Qué es *CoDep*?
 
 Primero tenemos que responder una pregunta más simple. ¿Qué es CoDep? El Consejo Departamental es una comisión de
 representantes de tres claustros del departamento: Alumnxs, profesorxs, y graduadxs.
@@ -31,7 +31,7 @@ tan vinculados a la política en otros niveles (agrupaciones nacionales, etc).
 
 Votar y participar en CoDep no requiere ninguna experiencia previa. Es sugerible estar un poco familiarizado con lo que pasa en el departamento.
 
-## Sobre la votación a CoDep
+## Sobre la votación a *CoDep*
 
 ### ¿Quién puede postularse?
 
