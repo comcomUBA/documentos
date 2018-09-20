@@ -30,10 +30,6 @@ Votar y participar en *Codep* no requiere ninguna experiencia previa aunque es s
 
 ## Sobre la votación a *Codep*
 
-### ¿Quién puede postularse?
-
-Les candidates debe ser estudiantes del Departamento de Computación, con al menos una materia aprobada (con examen final) de la carrera de Ciencias de la Computación. También podrán ser candidates les estudiantes de la FCEyN que se desempeñen como ayudantes de segunda en el Departamento de Computación.
-
 ### ¿Quiénes pueden votar?
 
 Las personas habilitadas para votar representantes estudiantiles son las mismas que pueden postulares como candidates.
@@ -42,3 +38,21 @@ Las personas habilitadas para votar representantes estudiantiles son las mismas 
 
 ¡A quien te parezca! A quien te parezca que mejor te va a representar; y más va a hacer por el departamento.
 Tené en cuenta que les codepers son participantes muy activos del departamento en otras actividades, como la ComCom y otras comisiones.
+
+### ¿Quién puede postularse?
+
+Les candidates debe ser estudiantes del Departamento de Computación, con al menos una materia aprobada (con examen final) de la carrera de Ciencias de la Computación. También podrán ser candidates les estudiantes de la FCEyN que se desempeñen como ayudantes de segunda en el Departamento de Computación.
+
+### ¿Cómo me postulo?
+
+Les candidates deberán enviar un e-mail a:
+juntaelectoral2018 "ARROBA" dc.uba.ar, mencionando en el asunto que se postula a Estudiante.
+En el cuerpo del e-mail debe figurar:
+
+   * Nombre completo
+   * Numero de DNI
+   * Numero de Libreta Universitaria
+   * Dirección de e-mail
+
+Además deberán dejar en la secretaría del Departamento una nota firmada
+expresando su voluntad de ser candidato.
