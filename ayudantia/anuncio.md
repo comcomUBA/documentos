@@ -4,7 +4,8 @@ Del 8 al 22 de octubre estará abierta la inscripción para los CONCURSOS REGULA
 
 Para inscribirse, acercarse en esas fechas a la Secretaría del Depto. de Computación, de lunes a viernes de 10:00 a 13:00 y de 14:00 a 19:00 horas. La inscripción se realiza entregando, por cada concurso al que deseen inscribirse, dos copias del formulario reglamentario (al menos una copia firmada en original en todas sus hojas), que puede descargarse de http://www.dc.uba.ar/concursos. Deben incluirse en el formulario una dirección de e-mail y el número de legajo (si lo tuviera).
 
-****** IMPORTANTE ******
+
+**IMPORTANTE**:
 
 Además deberá enviarse por mail, en formato PDF, la MISMA INFORMACIÓN que se entrega en papel. Esta información enviada por mail es la que le llegará al jurado.
 
