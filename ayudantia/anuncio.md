@@ -33,5 +33,3 @@ Distribución de materias por área:
 - Paradigmas de Lenguajes de Programación, Teoría de Lenguajes, Lógica y Computabilidad, Ingeniería de Software I, Ingeniería de Software II.
 
 Ante cualquier duda, por favor escribir a secretaria@dc.uba.ar.
-
-Volver al inicio
