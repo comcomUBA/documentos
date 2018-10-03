@@ -28,5 +28,5 @@ saludos!
 
 * iglosiggio en dc.uba.ar (email)
 * iglosiggio en gmail.com (email)
-* [iglosiggio](github.com/iglosiggio) en github
-* [soymega](t.me/soymega) en telegram
+* [iglosiggio](https://github.com/iglosiggio) en github
+* [soymega](https://t.me/soymega) en telegram
