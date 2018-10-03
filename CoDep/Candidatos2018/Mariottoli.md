@@ -21,6 +21,9 @@ Finalmente, reitero la invitación a participar de la elección con su voto, es 
 𝐋𝐚𝐬 𝐞𝐥𝐞𝐜𝐜𝐢𝐨𝐧𝐞𝐬 𝐬𝐨𝐧 𝐝𝐞𝐬𝐝𝐞 𝐞𝐥 𝐥𝐮𝐧𝐞𝐬 𝟏/𝟏𝟎 𝐡𝐚𝐬𝐭𝐚 𝐞𝐥 𝐯𝐢𝐞𝐫𝐧𝐞𝐬 𝟓/𝟏𝟎, 𝐝𝐞 𝟏𝟒 𝐚 𝟐𝟎 𝐡𝐬. 𝐒𝐞 𝐯𝐨𝐭𝐚 𝐞𝐧 𝐥𝐚 𝐬𝐞𝐜𝐫𝐞𝐭𝐚𝐫í𝐚 𝐝𝐞𝐥 𝐝𝐞𝐩𝐚𝐫𝐭𝐚𝐦𝐞𝐧𝐭𝐨 𝐜𝐨𝐧 𝐥𝐚 𝐥𝐢𝐛𝐫𝐞𝐭𝐚 𝐨 𝐃𝐍𝐈.
 
 [1] http://lafhis.dc.uba.ar/
+
 [2] https://www.dc.uba.ar/inst/autoridades/codep
-[3] https://noticias.dc.uba.ar/20…/…/05/mas-mujeres-computacion/
+
+[3]https://noticias.dc.uba.ar/20…/…/05/mas-mujeres-computacion/
+
 [4] https://sosciencia.net.ar/

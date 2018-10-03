@@ -26,11 +26,19 @@ Acérquense a votar!
 Cuanta más participación más legitimidad va a tener la voz de los estudiantes en el CoDep.
 
 [1] El CoDep (consejo departamental) es el lugar donde se toman las decisiones políticas del DC. Lo conforman representantes de profesores, graduados y estudiantes (3, 2 y 2) y el director de departamento.
+
 [2] La ComCom (Comisión de Computación) es donde los estudiantes nos juntamos a discutir las problemáticas de la carrera así como también las proyectos y propuestas para mejorar el departamento. Es abierta a cualquiera que quiera participar.
+
 [3] Actual conducción del Centro de Estudiantes y mayoría estudiantil en Consejo Directivo.
+
 [4] ENcuentro entre Investigadores y Alumnes de Computación, idea de Facu Blanco y llevada adelante por varios estudiantes desde la ComCom. Consistió en una tarde de reuniones de investigadores con grupos reducidos de estudiantes, para poder conocer mejor y de primera mano a qué se dedica un investigador del DC
-[5] https://exactas.uba.ar/genex…/se-presento-el-programa-genex/
-[6] https://www.facebook.com/groups/dc.comcom/permalink/1461127557343006/
+
+[5]https://exactas.uba.ar/genex…/se-presento-el-programa-genex/
+
+[6]https://www.facebook.com/groups/dc.comcom/permalink/1461127557343006/
+
 [7] http://www.dc.uba.ar/events/jieco
+
 [8] https://t.me/EstudiantesDCenIndustria
+
 [9] @tobiascarreira
