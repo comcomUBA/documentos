@@ -1,15 +1,21 @@
 # ¿Qué es ser codeper?
 
-Este documento trata de responder algunas preguntas frecuentes entre les alumnes, que surgen principalmente alrededor de las elecciones de representantes para CoDep.
+Este documento trata de responder algunas preguntas frecuentes entre les estudiantes, que surgen principalmente alrededor de las elecciones de representantes para CoDep.
 
 ## ¿Qué es *Codep*?
 
-El Consejo Departamental (*Codep*) es un organismo integrado por representantes delos tres claustros del departamento: Estudiantes (2 titulares), graduades (2 titulares), y profesores (3 titulares). Además de les representantes titulares, por cada claustro puede haber suplentes.
+El Consejo Departamental (*Codep*) es un organismo integrado por representantes de los tres claustros del departamento: Estudiantes (2 titulares), graduades (2 titulares), y profesores (3 titulares). Además de les representantes titulares, por cada claustro puede haber suplentes.
+
 En el *Codep* se discuten temas que conciernen al departamento y su administración. Algunos ejemplos:
    * Actividades que organiza el departamento (como la ECI)
    * Concursos Docentes (jurados, cronograma, etc)
-   * Uso de los fondos del DC para cubrir gastos de jurados de defensa de tesis    * Armado de otras comisiones para tratar temas particulares
+   * Uso de los fondos del DC para cubrir gastos de jurados de defensa de tesis
+   * Armado de otras comisiones para tratar temas particulares
    * Difusión de temas de interés.
+
+Además, son reuniones abiertas a toda la comunidad.
+Si te interesa conocer, podes preguntarle a les CoDeppers cuándo es la próxima.
+Siempre se escuchan todas las voces, y *en general* la mayoría de cosas se aprueban por consenso.
 
 ## Responsabilidades de une codeper:
 
@@ -24,7 +30,7 @@ En el *Codep* se discuten temas que conciernen al departamento y su administraci
     * Administrar el grupo de Facebook
     * Representar a les estudiantes en otros ámbitos
 
-Les codepers suelen trabajar en equipo para resolver los problemas y presentar propuestas ante el departamento. Las cuestiones que se tratan **generalmente** son cotidianas, más vinculadas al funcionamiento doméstico del departamento que a la política en ámbitos más amplios (agrupaciones nacionales, etc).
+Les CoDepers suelen trabajar en equipo para resolver los problemas y presentar propuestas ante el departamento. Las cuestiones que se tratan **generalmente** son cotidianas, más vinculadas al funcionamiento doméstico del departamento que a la política en ámbitos más amplios (agrupaciones nacionales, etc).
 
 Votar y participar en *Codep* no requiere ninguna experiencia previa aunque es sugerible estar un poco familiarizado con lo que pasa en el departamento día a día.
 
@@ -46,7 +52,7 @@ Les candidates debe ser estudiantes del Departamento de Computación, con al men
 ### ¿Cómo me postulo?
 
 Les candidates deberán enviar un e-mail a:
-juntaelectoral2018 "ARROBA" dc.uba.ar, mencionando en el asunto que se postula a Estudiante.
+juntaelectoral2019 "ARROBA" dc.uba.ar, mencionando en el asunto que se postula a "Candidato+ESTUDIANTE+Apellido".
 En el cuerpo del e-mail debe figurar:
 
    * Nombre completo
