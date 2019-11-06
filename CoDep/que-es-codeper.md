@@ -32,7 +32,7 @@ Siempre se escuchan todas las voces, y *en general* la mayoría de cosas se apru
 
 Les CoDepers suelen trabajar en equipo para resolver los problemas y presentar propuestas ante el departamento. Las cuestiones que se tratan **generalmente** son cotidianas, más vinculadas al funcionamiento doméstico del departamento que a la política en ámbitos más amplios (agrupaciones nacionales, etc).
 
-Votar y participar en *Codep* no requiere ninguna experiencia previa aunque es sugerible estar un poco familiarizado con lo que pasa en el departamento día a día.
+Votar y participar en *Codep* no requiere ninguna experiencia previa aunque es sugerible estar un poco familiarizade con lo que pasa en el departamento día a día.
 
 ## Sobre la votación a *Codep*
 
@@ -43,7 +43,7 @@ Las personas habilitadas para votar representantes estudiantiles son las mismas 
 ### ¿A quién voto?
 
 ¡A quien te parezca! A quien te parezca que mejor te va a representar; y más va a hacer por el departamento.
-Tené en cuenta que les codepers son participantes muy activos del departamento en otras actividades, como la ComCom y otras comisiones.
+Tené en cuenta que les codepers son participantes muy actives del departamento en otras actividades, como la ComCom y otras comisiones.
 
 ### ¿Quién puede postularse?
 
