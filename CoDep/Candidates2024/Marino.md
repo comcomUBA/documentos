@@ -6,9 +6,9 @@ Soy una estudiante de computación que recuerda cuando había 50 personas en las
 Mi lenguaje favorito es **Python**, soy parte de **Python Argentina** y una de las organizadoras del **PyCamp**.
 
 ### Lo que Hice en la Facultad
-- **Organizo las Noches de Juegos**, un espacio que busca conectar y desestresarnos un poco entre tanto estudio.
-- **Di el taller de Linux**, ayudando a introducir a más personas al uso de software libre.
-- **Mantengo CubaWiki**, una plataforma donde compartimos recursos y conocimientos relevantes para nuestra comunidad.
+- **Organizo las Noches de Juegos**, donde básicamente nos juntamos a jugar y despejar la cabeza un rato antes de que el estudio nos consuma vivos.
+- **Di el taller de Linux**, para que más gente sepa cómo usar software libre sin que se sientan en la Matrix.
+- **Mantengo CubaWiki**, una especie de Wikipedia local donde subimos cosas que usualmente quedan guardadas en el disco rígido de alguien y nunca ven la luz del sol.
 
 ### Lo que Quiero Hacer como Codeper
 1. **Impulsar CubaWiki**  
