@@ -15,13 +15,13 @@ Soy Juana Choclin, estudiante de compu :) mi tg es @Juani_ch.
 
 - __Ser la creadora de la Cubaca🐄 (👋)__ No se si te cruzaste últimamente con este sticker…
 
-- __Ser divulgadora del DC,__ Desde el 2023, junto con el equipo de extensión, participó en la organización de la Semana de la Computación, la Noche de los Museos, entre otras cosas. En la última Sdc estuve coordinando el sector de Sistemas y dictando el Taller de Programación Musical.
+- __Ser divulgadora del DC,__ Desde el 2023, junto con el equipo de extensión, participo en la organización de la Semana de la Computación, la Noche de los Museos, entre otras cosas. En la última Sdc estuve coordinando el sector de Sistemas y dictando el Taller de Programación Musical.
 
 - __Hacer la Sala de escape durante la Cubaweeki (y en la última NDJ),__ junto con unas amigas armamos una sala de escape para la ComCom que estuvimos haciendo durante la Cubaweeki y la última Noche de Juegos.
 
 - __Haber diseñado el logo actual de Cubawiki__
 
-- __Telegram,__ participó en varios grupos de Telegram de vez en cuando, por ejemplo en ComComida.
+- __Telegram,__ participo en varios grupos de Telegram de vez en cuando, por ejemplo en ComComida.
 
 ### Que quiero hacer como Codepper: ###
 
