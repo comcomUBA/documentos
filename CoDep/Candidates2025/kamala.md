@@ -1,7 +1,7 @@
 ¡Buenas!
 Soy Kamala Jimeno Leiton, estudiante de Datos y estoy interesada en ser representante en el CoDep. Mi telegram es @Kemelete (aunque siendo sincera, soy más de wpp por costumbre 😛 😛 ).
 
-#¿Quién Soy?
+# ¿Quién Soy?
 
 Soy de San Antonio de Areco 🌱, tengo 20 años, curso en varios turnos, y me gusta tener varios amigos asi que seguro me cruzaste en alguna clase, en los pasillos o en los labos estudiando. Trabajo como CM del gremio docente de la Universidad de San Martin (entre otras cosas jajaj), por lo que estoy muy informada de la gestión universitaria y de los problemas con el financiamiento ☝🤓 . Creo que por mi actividad tengo herramientas para fomentar la comunicación y manejo de redes que pueden ser aplicables en el DC ⚡. Ya estoy por llegar al título intermedio (siguiendo el plan de estudios de datos) y me gusta la idea de relacionar lo que estudio con las ciencias sociales.
 
@@ -29,7 +29,7 @@ Mi experiencia por la facu desde 2024 fue toda una aventura. Personalmente, me c
 
   Soy muy conciente de mi rol como mujer en la ciencia y la computación, y me parece que aunque se puede ver un aumento de nuestra participación en el campo, creo que hay mucho por trabajar, más que nada en la falta de representación femenina. Es importante también visibilizar las herramientas que tenemos para poder defendernos de posibles actos de violencia dentro de la facu.
 
-#Últimos comentarios:
+# Últimos comentarios:
 
   Me parece importante acompañar el Reclamo Salarial de los Docentes: La calidad de vida de los docentes también nos compete como alumnos del DC.
   Creo que está en nuestras manos apoyar y acompañar su lucha para sostener nuestra queridísima Universidad Pública Gratuita y de Calidad.
